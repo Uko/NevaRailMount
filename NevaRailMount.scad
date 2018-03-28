@@ -1,8 +1,8 @@
 // Hight of the mounting bracket
-height = 10; // [5:60]
+height = 50; // [5:60]
 
 // Widest part of the horizontal cross-section
-frameThickness = 20; // [2:30]
+frameThickness = 5; // [2:30]
 
 nevaRailMount(height, frameThickness);
 
