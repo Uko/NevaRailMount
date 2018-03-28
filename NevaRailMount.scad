@@ -1,6 +1,8 @@
-// customizable params
-height = 10;
-frameThickness = 20;
+// Hight of the mounting bracket
+height = 10; // [5:60]
+
+// Widest part of the horizontal cross-section
+frameThickness = 20; // [2:30]
 
 nevaRailMount(height, frameThickness);
 
